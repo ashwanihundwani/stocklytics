@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>897080236897-rp1i59uso8rlt62g9v2lc67g64rhnssi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.897080236897-rp1i59uso8rlt62g9v2lc67g64rhnssi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKKFiNWjOPKlbtkc8n0t8KZ9z0hWOBNco</string>
+	<key>GCM_SENDER_ID</key>
+	<string>897080236897</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.org.stocklytics</string>
+	<key>PROJECT_ID</key>
+	<string>stocklytics-749bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stocklytics-749bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:897080236897:ios:0b5a3c565097c240608320</string>
+	<key>DATABASE_URL</key>
+	<string>https://stocklytics-749bd.firebaseio.com</string>
+</dict>
+</plist>

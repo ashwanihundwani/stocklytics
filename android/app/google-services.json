@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897080236897",
+    "firebase_url": "https://stocklytics-749bd.firebaseio.com",
+    "project_id": "stocklytics-749bd",
+    "storage_bucket": "stocklytics-749bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897080236897:android:599538571f5c63c4608320",
+        "android_client_info": {
+          "package_name": "com.org.stocklytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897080236897-fo5a9tii24ivdupmess2snpkfpsjgseg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgmRkP8FEW82EnVxXaFeJ50y2bdkbBrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897080236897-fo5a9tii24ivdupmess2snpkfpsjgseg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "897080236897-rp1i59uso8rlt62g9v2lc67g64rhnssi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.org.stocklytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
