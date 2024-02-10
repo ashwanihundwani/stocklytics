@@ -1,0 +1,15 @@
+Task 1 :
+1.Create a list of section page with Image and  some text.(use open sources images). [Use FlatList, Proper Styles, Text etc..] [ Use Redux to store the data( just understand the redux concepts)]
+2. After tapping the section page navigate to details page.(Use Navigation)
+3.In detail page just  display the Image and text with back button.
+After tapping the back button its navigate to list section page.
+ 
+Task 2. :
+1. Integrate the Carousel framework and show the list of images with icons.(example Task - 2)
+2. Tapping the images its navigate to Details page with back button.(Just display the image).
+3. After tapping the back button, its navigate to main page.
+ 
+Task 3. :
+1.Create Sign up Form, similar to screenshots.(Use Flexbox, styles, proper padding etc.)
+2.Use asynstorage to store all the details and retrieve the detailsApp Name = GenieShop
+Icon = get free non trademark(check for copy right) icon
